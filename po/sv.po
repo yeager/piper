@@ -28,6 +28,11 @@ msgstr "Piper"
 msgid "Configurable mouse configuration utility"
 msgstr "Konfigurationsprogram för programmerbara möss"
 
+#. Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+#: data/org.freedesktop.Piper.desktop.in:6
+msgid "org.freedesktop.Piper"
+msgstr "org.freedesktop.Piper"
+
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.freedesktop.Piper.desktop.in:11
 msgid "gaming;configuration;mouse;mice;"
@@ -539,9 +544,6 @@ msgstr "Välj en enhet"
 #: data/ui/Window.ui:8
 msgid "_About Piper"
 msgstr "_Om"
-
-#~ msgid "org.freedesktop.Piper"
-#~ msgstr "org.freedesktop.Piper"
 
 #~ msgid "Incompatible ratbagd API version (required: {}, provided: {})"
 #~ msgstr "Inkompatibel ratbagd API version (behövs: {}, försedd: {})"
