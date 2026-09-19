@@ -428,11 +428,11 @@ msgstr "Prova en annan sökning"
 
 #: data/ui/ErrorPerspective.ui:16
 msgid "Here, rodent, rodent, rodent…"
-msgstr "Hit, gnagare, gnagare, gnagare..."
+msgstr "Hit, gnagare, gnagare, gnagare…"
 
 #: data/ui/ErrorPerspective.ui:69
 msgid "Uh Oh! Something went wrong…"
-msgstr "Oj då! Något gick fel..."
+msgstr "Oj då! Något gick fel…"
 
 #: data/ui/LedDialog.ui:51 data/ui/LedDialog.ui:192
 msgid "Choose a color for the LED"
