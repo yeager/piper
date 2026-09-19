@@ -545,8 +545,10 @@ msgstr "Välj en enhet"
 msgid "_About Piper"
 msgstr "_Om"
 
-#~ msgid "Incompatible ratbagd API version (required: {}, provided: {})"
-#~ msgstr "Inkompatibel ratbagd API version (behövs: {}, försedd: {})"
+#: piper/window.py:57
+#, python-brace-format
+msgid "Incompatible ratbagd API version (required: {e.required_version}, provided: {e.ratbagd_version})"
+msgstr "Inkompatibel ratbagd API-version (krävs: {e.required_version}, tillhandahålls: {e.ratbagd_version})"
 
 #~ msgid "Version: @version@"
 #~ msgstr "Version: @version@"
